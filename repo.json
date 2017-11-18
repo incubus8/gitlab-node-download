@@ -1,0 +1,12 @@
+[
+  {
+    "name": "microservice-accounts",
+    "branch": "develop",
+    "output_name": "microservice-accounts"
+  },
+  {
+    "name": "microservice-gql",
+    "branch": "develop",
+    "output_name": "microservice-accounts"
+  }
+]
